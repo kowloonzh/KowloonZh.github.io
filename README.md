@@ -8,3 +8,8 @@
 ## todo
 * cover 图片问题
 * footer 名称问题
+* seo 问题
+* rss 问题
+
+## 参考
+[蝉沐风](https://github.com/chanmufeng/chanmufeng.github.io)
