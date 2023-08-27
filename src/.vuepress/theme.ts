@@ -42,6 +42,7 @@ export default hopeTheme({
     roundAvatar: true,
     description: "编程是一种艺术，投资也是",
     intro: "/intro.html",
+    sidebarDisplay: "none",
     medias: {
       GitHub: "https://github.com/kowloonzh",
       Email: "mailto:kowloonzh@gmail.com",
