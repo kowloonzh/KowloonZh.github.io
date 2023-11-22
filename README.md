@@ -1,3 +1,8 @@
+## 运行
+```
+npm run docs:dev -- --port=8000
+```
+
 ## vuepress
 
 [vuepress-theme-hope文档](https://theme-hope.vuejs.press/zh/guide/)
