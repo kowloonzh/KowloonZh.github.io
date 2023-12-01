@@ -1,9 +1,9 @@
 import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
-  "/",
-  "/coding/",
-  "/invest/",
+  // "/",
+  // "/coding/",
+  // "/invest/",
   // {
   //   text: "博文",
   //   icon: "pen-to-square",
